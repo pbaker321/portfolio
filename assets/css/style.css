@@ -19,7 +19,7 @@ body, html {
 
 .hero-image {
     background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/pexels-josh-sorenson-1714208.jpg);
-    height: 40%;
+    height: 100%;
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -28,23 +28,26 @@ body, html {
 }
 
 
-.container {
+.hero-text {
     position: absolute;
     text-align: center;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Lato';
     color: #fafafa;
     text-shadow: 0px 4px 4px #000000;
+    
+    
 }
 
 .container h1 {
-    font-size: 64px;
+    font-size: 75px;
+    font-weight: 700;
 }
 
 .container h3 {
-    font-size: 46px;
+    font-size: 62px;
 }
 
 /*-----homepage layou-----*/
@@ -70,3 +73,6 @@ footer {
     padding-right: 25px;
     color: #fafafa;
 }
+
+/*------media query------*/
+
