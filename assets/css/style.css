@@ -57,10 +57,26 @@ body, html {
 
 /*-----Resume page layout---*/
 
+.about {
+    margin: 10px 25px 10px 25 px;
+    display: inline-block;
+
+}
 .section-heading {
     text-align: center;
     padding: 10px;
 
+}
+
+.progress {
+    height: 30px;
+    width: 70%;
+}
+
+.profile {
+    margin: 10% 25% 0 25%;
+    border-radius: 10px;
+    border-color: #fafafa;
 }
 
 /*------from rosie project------*/
@@ -69,6 +85,7 @@ body, html {
     position: relative;
     height: 30px;
     margin-bottom: 5px;
+    
 }
 
 .progress-type {
@@ -84,20 +101,19 @@ body, html {
     margin: 40px 20px;
 }
 
-/* ----------------------------------------Three Reasons */
-
-.three-reasons-icon {
-    font-size: 26px;
-    color: #fafafa;
-}
-
-.three-reasons-heading {
-    text-align: center;
-    margin-bottom: 15px;
-}
 
 /*-----portfolio page layout----*/
 
+.project-heading {
+    position: relative;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.projects {
+    position: absolute;
+    float: inline-start;
+}
 /*----contact page layout-----*/
 
 .contact-heading {
