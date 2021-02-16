@@ -28,3 +28,13 @@ The Website will consist of 4 pages and a link to a CV.
 - Portfolio. A page with links to the developers projects. 
 - CV. Downloadable cv 
 - Contact. A form to contact the developer for future projects or employment.
+
+# Websites used 
+
+I used a number of sources to help with coding. Some through websites and some through the projects we have done on the course. I have commented as i went through.
+
+Websites used
+
+- W3schools.com
+- bootstrap
+- CSStricks
